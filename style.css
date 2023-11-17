@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#page1{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    padding-top: 20vh;
+    padding: 0 1vw;
+}
+#page1>h1{
+    font-size: 15.2vw;
+    font-family: "Futura-Bold";
+    line-height: 14vw;
+    letter-spacing: -8px;
+}
